@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            My Practice Website
+        </title>
+    </head>
+    <body>
+        <a href="NewPage.html">New Page</a><br>
+        <a href="Register.html">Registration</a>
+        <ul>
+            <li>Banana</li>
+            <li>Apple</li>
+            <li>Grape</li>
+            <ul>
+                <li>Fuji</li>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbWenug_lIAh5Z_nxTQc9XYoNaRPoxMlZNWyuBTcTkXxNIihYR">
+                <li>Honey Crisp</li>
+                <img src="https://images.freshop.com/12410/9fd4b087afbe03fd763d846d55e9d5cd_medium.png">
+            </ul>
+            <li>Orange</li>
+        </ul>
+    </body>
+</html>
